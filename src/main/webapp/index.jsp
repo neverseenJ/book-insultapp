@@ -5,9 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insult Generator</title>
+<title>Insult Generator V2</title>
 </head>
 <body>
+This is V2???
 <%
 out.println(new InsultGenerator().generateInsult());
 %>
